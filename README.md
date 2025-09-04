@@ -13,7 +13,7 @@
 
 ## 📋 Project Overview
 
-This repository contains my implementation of the **Match 3** assignment from CS50's Introduction to Game Development.
+This repository contains my implementation of the **Match 3** assignment from CS50's Introduction to Game Development.  
 📺 You can also watch my gameplay demo on [YouTube](https://youtu.be/KNoylyu6ESU?si=Ww6pjrrdy6sNmMmW).
 
 ---
